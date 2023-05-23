@@ -2,7 +2,7 @@
 
 
 
-Collection of reading note from Code Fellows Ops and Cybersecurity
+Collection of reading notes from Code Fellows Ops and Cybersecurity
 
 
 - 102d6
